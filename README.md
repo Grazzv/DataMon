@@ -10,6 +10,7 @@ Este projeto é uma análise descritiva realizada para a atividade A3 da UC Aná
 - Beatriz freitas monteiro - RA: 125111356183
 - Vinícius Marques de Souza - RA: 12523130849
 - Rubens de Jesus Souza - RA: 125111345885
+- Vitor Grazziani Wolkmer - RA: 1292223645
 
 ## Requisitos do Projeto
 
